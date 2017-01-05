@@ -2,6 +2,6 @@ package com.avish;
 
 public class Wine {
 	public static void main(String[] args) {
-		System.out.println("doinf hhhhhhhh great");
+		System.out.println("doing great");
 	}
 }
